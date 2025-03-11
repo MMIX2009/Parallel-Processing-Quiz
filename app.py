@@ -86,7 +86,8 @@ quiz = [
 
     {"question": "What is a key difference between vector instructions and multimedia extensions?",
      "options": ["Vector instructions have variable vector width, while multimedia extensions have fixed width", "Vector instructions are slower but more power-efficient", 
-    "Multimedia extensions support strided memory access, while vector instructions don't", "Vector instructions only work with integers, while multimedia extensions support floating-point"],
+     "Multimedia extensions support strided memory access, while vector instructions don't", "Vector instructions only work with integers, while multimedia extensions support floating-point"],
+     "answer": "Vector instructions have variable vector width, while multimedia extensions have fixed width"}
 
     # Multithreading
     {"question": "What is the primary goal of multithreading?",
