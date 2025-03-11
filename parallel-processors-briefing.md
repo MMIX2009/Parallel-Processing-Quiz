@@ -1,8 +1,5 @@
 # Briefing Document: Parallel Processors and Multithreading
 
-**Date:** October 26, 2023
-**Source:** Excerpts from "CS533 Module 10.pdf", Chapter 6: Parallel Processors
-
 ## Executive Summary
 
 This briefing document summarizes the key concepts discussed in the provided excerpts from a computer organization and design textbook, focusing on parallel processors and related hardware and software considerations. The main themes revolve around the motivation for parallel processing (increased performance, scalability, availability, power efficiency), the challenges of parallel programming, fundamental laws like Amdahl's Law that limit speedup, different approaches to parallel hardware (multiprocessors, multicore, vector processors, SIMD), and techniques for enhancing parallelism at the instruction level (multithreading, simultaneous multithreading). The document highlights the crucial interplay between hardware and software in achieving effective parallel processing.
